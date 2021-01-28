@@ -1,0 +1,12 @@
+{
+    "name": "scriptmastership/mpdf",
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "src": "/"
+        }
+    }
+}
